@@ -1,3 +1,5 @@
+# Typing-speed-test
+
 This is a simple typing speed test app built using React that measures how fast a user can type in a given time frame. The app provides users with a text prompt, which they must type as quickly and accurately as possible. The user's typing speed is measured in words per minute (WPM), which is displayed on the screen at the end of the test.
 
 # Features:
